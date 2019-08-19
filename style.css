@@ -1,10 +1,28 @@
-.container {
-    width: 960px;
-}
+/*navbar styles*/
 
 #header {
     color: white;
     background-color: #4aaaa5;
     height: 100%;
     line-height: 100%;
+    text-align: center;
+}
+
+/* About Me styles */
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+#aboutheader {
+    color: #4aaaa5;
+}
+
+#sticky-footer {
+    flex-shrink: none;
+}
+
+footer {
+    border-top: 8px solid #4aaaa5;
 }

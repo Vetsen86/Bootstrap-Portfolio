@@ -1,4 +1,4 @@
-
+/*sticky footer styles*/
 html {
     position: relative;
     min-height: 100%;
@@ -49,4 +49,12 @@ img {
     background-color: #cccccc;
 }
 
-/*footer styles*/
+/* Contact styles */
+
+.contact {
+    background-color: #cccccc;
+}
+
+#contact-header {
+    color: #4aaaa5;
+}

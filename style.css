@@ -47,14 +47,39 @@ img {
 
 .about {
     background-color: #cccccc;
+    margin-bottom: 60px;
 }
 
 /* Contact styles */
 
 .contact {
     background-color: #cccccc;
+    margin-bottom: 60px;
 }
 
 #contact-header {
     color: #4aaaa5;
+}
+
+/* Portfolio styles */
+
+.portfolio {
+    background-color: #ffffff;
+}
+
+.port-img {
+    position: relative;
+}
+
+.img-header {
+    position: absolute;
+    bottom: 10%;
+    width: 300px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+}
+
+.p-img {
+    width: 300px;
 }

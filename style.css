@@ -46,14 +46,14 @@ img {
 }
 
 .about {
-    background-color: #cccccc;
+    background-color: #ffffff;
     margin-bottom: 60px;
 }
 
 /* Contact styles */
 
 .contact {
-    background-color: #cccccc;
+    background-color: #ffffff;
     margin-bottom: 60px;
 }
 
@@ -73,13 +73,18 @@ img {
 
 .img-header {
     position: absolute;
-    bottom: 10%;
-    width: 300px;
+    bottom: 20%;
+    width: 100%;
     background-color: #4aaaa5;
     color: #ffffff;
     text-align: center;
 }
 
 .p-img {
-    width: 300px;
+    width: 100%;
+}
+
+.card {
+    border: 0px;
+    margin-bottom: 20px;
 }

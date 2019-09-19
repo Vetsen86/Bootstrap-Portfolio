@@ -73,7 +73,7 @@ img {
 
 .img-header {
     position: absolute;
-    bottom: 20%;
+    bottom: 40%;
     width: 100%;
     background-color: #4aaaa5;
     color: #ffffff;
@@ -86,5 +86,4 @@ img {
 
 .card {
     border: 0px;
-    margin-bottom: 20px;
 }
